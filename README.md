@@ -1,7 +1,6 @@
 # Simple-Marketing-Bot
 
 ## This is simple project so bugs is expected.
-## Download the .zip file.
 
 
 ## Bugs found
